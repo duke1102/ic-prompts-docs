@@ -6,4 +6,8 @@ coverY: 0
 
 # 👋 Infinite Chronicles
 
-[https://twitch.tv/infinitechronicles](https://twitch.tv/infinitechronicles)
+>AI-generated slice of life visual novel! Meet the main characters: energetic Origami-chan 🤖, witty Ayami-san 🎧, calm Kirino 🦀 romantic Kaya 🐰 furious Mikiko 🍕 and awkward Muri 💤
+
+Watch 24/7 on Twitch:
+[InfiniteChronicles @ Twitch.tv](https://twitch.tv/InfiniteChronicles)
+Join the Discord community: [Discord](https://discord.gg/23sCNzMNpG)
