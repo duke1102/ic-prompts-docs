@@ -1,0 +1,32 @@
+{
+	"codeblock with line wrap": {
+		"scope": "markdown,md",
+		"prefix": "cow",
+		"body": ["{% code overflow=\"wrap\" %}", "${TM_SELECTED_TEXT}", "{% endcode %}"],
+		"description": "codeblock with wrap"
+	},
+	"info hint": {
+		"scope": "markdown",
+		"prefix": "hii",
+		"body": ["{% hint style=\"info\" %}", "**Info**", "${TM_SELECTED_TEXT}", "{% endhint %}"],
+		"description": "info hint"
+	},
+	"success hint": {
+		"scope": "markdown",
+		"prefix": "his",
+		"body": ["{% hint style=\"success\" %}", "**Success**", "${TM_SELECTED_TEXT}", "{% endhint %}"],
+		"description": "success hint"
+	},
+	"warning hint": {
+		"scope": "markdown",
+		"prefix": "hiw",
+		"body": ["{% hint style=\"warning\" %}", "**Warning**", "${TM_SELECTED_TEXT}", "{% endhint %}"],
+		"description": "warning hint"
+	},
+	"danger hint": {
+		"scope": "markdown",
+		"prefix": "hid",
+		"body": ["{% hint style=\"danger\" %}", "**Danger**", "${TM_SELECTED_TEXT}", "{% endhint %}"],
+		"description": "danger hint"
+	}
+}
