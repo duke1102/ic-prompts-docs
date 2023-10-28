@@ -1,6 +1,6 @@
 # Tips & Tricks
 
-## it's all in good fun!
+## It's all in good fun
 
 Sometimes when you write a prompt it might get flagged by OpenAI's moderation system. While this is intended and a MUST have system in place, in some situations the flagging can be weird and wrongly flag a prompt that is okay.
 
